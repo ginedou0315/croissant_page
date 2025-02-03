@@ -11,6 +11,7 @@ a {
 img {
   padding-bottom: 20px;
   max-width: 80%;
+  margin: auto;
 }
 
 a:visited {
