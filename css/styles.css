@@ -7,10 +7,10 @@ footer,
 a {
   color: aquamarine;
   padding: 10px;
-  margin-top: 20px;
 }
 img {
   padding-bottom: 20px;
+  max-width: 80%;
 }
 
 a:visited {
