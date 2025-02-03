@@ -1,5 +1,5 @@
 body {
-  background: rgb(114, 68, 12);
+  background: rgb(97, 85, 7);
   color: aliceblue;
   text-align: center;
 }
@@ -11,4 +11,7 @@ a,
 }
 img {
   padding-bottom: 20px;
+}
+a:visited {
+  color: yellow;
 }
